@@ -41,5 +41,7 @@ public class TestBankAccount {
         // viewing the available balance
         System.out.println("The balances of the saving accounts are: " + sa1.getBalance() + " "+sa2.getBalance());
         System.out.println("The balances of the checking accounts are: " + ca1.getBalance() + " "+ca2.getBalance());
+        
+        System.out.println("HelloWorld");
     }
  }
